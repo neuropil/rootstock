@@ -62,9 +62,9 @@ In general, assume that all commands in this setup are case-sensitive.
 
 ```sh
 # GitHub username or organization name (change from manubot)
-OWNER=manubot
+OWNER=neuropil
 # Repository name (change from rootstock)
-REPO=rootstock
+REPO=bilateralMDT2
 ```
 
 ## Create repository
